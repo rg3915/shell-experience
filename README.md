@@ -9,23 +9,10 @@ http://www.freeos.com/guides/lsst/ch02sec01.html
 
 http://br.kernelnewbies.org/node/58
 
-Guia Bash Scripting
+[Guia Bash Scripting](http://www.guiaubuntupt.org/wiki/index.php?title=Guia_Bash_Scripting)
 
-http://www.guiaubuntupt.org/wiki/index.php?title=Guia_Bash_Scripting
+[Guia rápido para o GIT](http://br.kernelnewbies.org/node/58)
 
-Guia rápido para o GIT
+[Bash if then fi statements](http://linuxconfig.org/Bash_scripting_Tutorial#9-bash-if--else--fi-statements)
 
-http://br.kernelnewbies.org/node/58
-
-Bash if then fi statements
-
-http://linuxconfig.org/Bash_scripting_Tutorial#9-bash-if--else--fi-statements
-
-Bash scripting Tutorial
-
-http://linuxconfig.org/Bash_scripting_Tutorial
-
-Git User’s Manual (for version 1.5.3 or newer)
-
-http://www.kernel.org/pub/software/scm/git/docs/user-manual.html
-
+[Bash scripting Tutorial](http://linuxconfig.org/Bash_scripting_Tutorial)
