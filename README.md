@@ -11,8 +11,6 @@ http://br.kernelnewbies.org/node/58
 
 [Guia Bash Scripting](http://www.guiaubuntupt.org/wiki/index.php?title=Guia_Bash_Scripting)
 
-[Guia rápido para o GIT](http://br.kernelnewbies.org/node/58)
-
 [Bash if then fi statements](http://linuxconfig.org/Bash_scripting_Tutorial#9-bash-if--else--fi-statements)
 
 [Bash scripting Tutorial](http://linuxconfig.org/Bash_scripting_Tutorial)
